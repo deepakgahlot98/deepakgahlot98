@@ -7,7 +7,7 @@ I love writing blogs about Android and help the community in learning something 
 Currently Learning coroutines and ways to write more scalable and re-usable code for Android applications </p>
 
 ## 🛠️ Technologies & Tools
-[![OS Badge](https://img.shields.io/badge/OS-macOS-brightgreen)]
+[![OS Badge](https://img.shields.io/badge/OS-macOS-brightgreen)[!Editor Badge](https://img.shields.io/badge/Editor-Android%20Studio%20%7C%20IntelliJ%20Idea-green)]
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=deepakgahlot98 alt=deepakgahlot98 /> </p>
