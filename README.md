@@ -2,7 +2,10 @@
 
 ## Hey This is Deepak Gahlot <p align="left"> <img src="https://github.com/deepakgahlot98/deepakgahlot98/blob/master/a.gif" width="56" alt="gitmoji"> </p>
 [![Gmail Badge](https://img.shields.io/badge/-deepakgahlot98@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:deepakgahlot98@gmail.com)](mailto:deepakgahlot98@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/https://www.linkedin.com/in/deepak-gahlot-4b7832102/?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepakgahlot-4b7832102/)](https://www.linkedin.com/in/deepakgahlot-4b7832102/) [![Github Badge](https://img.shields.io/badge/-deepakgahlot98-grey?style=flat&logo=github&logoColor=white&link=https://github.com/deepakgahlot98/)](https://www.github.com/deepakgahlot98/) <p align='left'>I'm an Android Developer currently working at Adobe Inc. Currently working on an Image processing and managing application called Lightroom.
+[![Linkedin Badge](https://img.shields.io/badge/https://www.linkedin.com/in/deepak-gahlot-4b7832102/?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepakgahlot-4b7832102/)](https://www.linkedin.com/in/deepakgahlot-4b7832102/) [![Github Badge](https://img.shields.io/badge/-deepakgahlot98-grey?style=flat&logo=github&logoColor=white&link=https://github.com/deepakgahlot98/)](https://www.github.com/deepakgahlot98/) <p align='left'>
+ I'm an Android Developer with 9 Years of experience, currently working at SAP. Past experience Include working at Adobe Inc.
+ Currently working on SAP's Inteligent Sending and Business Network Seller Android App, which helps the procurement side of the busniess
+ At my time at Adobe i was working on an Image processing and managing application called Lightroom.
 
 I love writing blogs about Android and help the community in learning something new Android each day. 
 
