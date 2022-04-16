@@ -100,6 +100,15 @@ ul {
 a {
   text-decoration: none;
 }
+a:visited {
+  color: white;
+}
+a:hover {
+  color: green;
+}
+a:active {
+  color: yellow;
+}
 
 button {
   cursor: pointer;
@@ -141,6 +150,12 @@ body.light-theme {
 
 .light-theme .nav__menu {
   background-color: hsla(var(--second-hue), 32%, 90%, .8);
+}
+
+.light-theme .nav__logo {
+  color: var(--text-color);
+  font-weight: var(--font-mdeium);
+  transition: .4s;
 }
 
 .light-theme .section__subtitle {
@@ -527,7 +542,7 @@ body.light-theme {
 }
 
 .skills__name {
-  font-size: var(--normal-font-size);
+  font-size: var(--small-font-size);
   font-weight: var(--font-medium);
   line-height: 18px;
 }
@@ -545,7 +560,7 @@ body.light-theme {
 
 .services__card {
   background-color: var(--container-color);
-  padding: 3rem 1.5rem 1,5rem;
+  padding: 3rem 1.5rem 1.5rem;
   border-radius: 1rem;
 }
 
@@ -584,6 +599,21 @@ body.light-theme {
   opacity: 0;
   transition: .4s;
   z-index: var(--z-modal);
+}
+
+.services__modal__logo {
+  width: 200px;
+  height: 150px;
+}
+
+.services__modal__logo__iiit {
+  width: 300px;
+  height: 150px;
+}
+
+.services__modal__logo__utu {
+  width: 200px;
+  height: 150px;
 }
 
 .services__modal-content {
@@ -682,7 +712,7 @@ body.light-theme {
   margin-bottom: .25rem;
 }
 
-.work_button {
+.work__button {
   width: max-content;
   color: var(--first-color);
   font-size: var(--small-font-size);
@@ -691,7 +721,7 @@ body.light-theme {
   column-gap: .25rem;
 }
 
-.work_button:hover .work__icon {
+.work__button:hover .work__icon {
   transform: translateX(.25rem);
 }
 
@@ -772,45 +802,6 @@ body.light-theme {
 .contact__button-icon {
   font-size: 1rem;
   transition: .4s;
-}
-
-.contact__form-div {
-  position: relative;
-  margin-bottom: 2rem;
-  height: 4rem;
-}
-
-.contact__form-input {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%
-  border 2px solid var(--text-color-light);
-  background: none;
-  color: var(--text-color);
-  outline: none;
-  padding: 1.5rem;
-  border-radius: .75rem;
-  z-index: 1;
-}
-
-.contact__form-tag {
-  position: absolute;
-  top: -.75rem;
-  left: 1.25rem;
-  font-size: var(--smaller-font-size);
-  padding: .25rem;
-  background-color: var(--body-color);
-  z-index: 10;
-}
-
-.contact__form-area {
-  height: 11rem;
-}
-
-.contact__form-area textarea {
-  resize: none;
 }
 
 /*=============== FOOTER ===============*/
@@ -946,7 +937,7 @@ body.light-theme {
   }
 
   .skills__content {
-    padding: 2rem 4rem;
+    padding: 2rem 2rem;
   }
 
   .services__container {
@@ -1069,12 +1060,12 @@ body.light-theme {
   }
 
   .services__container {
-    grid-template-columns: repeat(3, 192px);
+    grid-template-columns: repeat(3, 292px);
     column-gap: 3rem;
   }
 
   .services__card {
-    padding: 5rem 2rem 1.5rem;
+    padding: 1.5rem 2rem 1.5rem;
   }
 
   .work__container {
